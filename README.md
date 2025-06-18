@@ -88,6 +88,7 @@ Sheena
 Captain America: Civil War
 Star Trek: Insurrection
 Oz: The Great and Powerful
+```
 
 ## 📌 Future Improvements
 
@@ -103,5 +104,3 @@ Oz: The Great and Powerful
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-
