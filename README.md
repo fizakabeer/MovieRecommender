@@ -1,4 +1,4 @@
-# MovieRecommender
+# Movie Recommender
 A simple yet effective machine learning-based movie recommender system. Given the name of a movie you like, the engine suggests similar movies based on content similarity.
 
 ## 🚀 Features
